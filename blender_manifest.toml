@@ -2,11 +2,11 @@ schema_version = "1.0.0"
 
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
-id = "FSTools"
+id = "QTools"
 version = "1.0.0"
-name = "Test Extension"
-tagline = "This is another extension"
-maintainer = "Developer name <email@address.com>"
+name = "QTools"
+tagline = "Series of pie menus in blender"
+maintainer = "https://github.com/MarkC-b3d/QTools"
 # Supported types: "add-on", "theme"
 type = "add-on"
 
